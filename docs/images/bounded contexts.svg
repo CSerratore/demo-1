@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="bounded contexts.svg"
+   inkscape:export-filename="/home/cory/prj/cloudoutlier/demo-1/docs/images/bounded contexts.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1177">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1167" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1169" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.8"
+         result="blur"
+         id="feGaussianBlur1171" />
+      <feOffset
+         dx="0.7"
+         dy="0.7"
+         result="offset"
+         id="feOffset1173" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1175" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1177-3">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1167-0" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1169-1" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.8"
+         result="blur"
+         id="feGaussianBlur1171-7" />
+      <feOffset
+         dx="0.7"
+         dy="0.7"
+         result="offset"
+         id="feOffset1173-8" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1175-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1177-9">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1167-7" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1169-8" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.8"
+         result="blur"
+         id="feGaussianBlur1171-2" />
+      <feOffset
+         dx="0.7"
+         dy="0.7"
+         result="offset"
+         id="feOffset1173-5" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1175-3" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.99424264"
+     inkscape:cx="284.33241"
+     inkscape:cy="695.94459"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="843"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1460" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:connector-curvature="0"
+       id="path1467"
+       d="m 61.27786,84.981485 21.1197,15.407505 v 0 -0.3852 0"
+       style="fill:none;stroke:#000000;stroke-width:0.81447363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(-16.59228,-39.472421)"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="g1465">
+      <g
+         id="g880">
+        <path
+           transform="matrix(1.0390721,0,0,0.68023634,2.7943861,27.972984)"
+           sodipodi:nodetypes="sssas"
+           inkscape:connector-curvature="0"
+           id="path815-9"
+           d="m 17.123656,117.86021 c -0.8112,15.78804 13.073818,45.31143 25.252727,47.71309 12.891592,2.54219 24.488574,-22.71256 37.731764,-30.15029 C 102.51899,122.8365 119.80363,134.04725 117.2951,114.20093 110.96332,64.107 19.737015,66.997538 17.123656,117.86021 Z"
+           style="fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1177-9)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="67.885994"
+           y="104.50001"
+           id="text1205-0"><tspan
+             sodipodi:role="line"
+             id="tspan1203-2"
+             x="67.885994"
+             y="104.50001"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Infrastructure</tspan><tspan
+             id="tspan1408-0"
+             sodipodi:role="line"
+             x="67.885994"
+             y="112.46255"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Management</tspan></text>
+      </g>
+    </g>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1467-6"
+       d="m 137.84897,129.39087 32.56266,11.68189 v 0 -0.3852 0"
+       style="fill:none;stroke:#000000;stroke-width:0.81447363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text903"
+       y="86.768791"
+       x="65.464394"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="86.768791"
+         x="65.464394"
+         id="tspan901"
+         sodipodi:role="line">U</tspan></text>
+    <text
+       id="text903-1"
+       y="95.232765"
+       x="77.399681"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="95.232765"
+         x="77.399681"
+         id="tspan901-6"
+         sodipodi:role="line">D</tspan></text>
+    <text
+       id="text903-3"
+       y="133.55341"
+       x="151.37978"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="133.55341"
+         x="151.37978"
+         id="tspan901-4"
+         sodipodi:role="line">U</tspan></text>
+    <g
+       transform="translate(133.83513,37.085577)"
+       id="g1364-1">
+      <g
+         id="g1413">
+        <path
+           style="fill:#fffff6;fill-opacity:1;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1177-3)"
+           d="M 12.777346,137.77739 C -4.6845176,163.49843 57.031468,178.37238 84.643092,164.68515 107.33478,153.43676 121.93244,116.62535 108.33129,94.640413 103.4643,86.7734 88.601298,70.174399 80.312347,70.071604 70.35225,69.948083 58.278381,103.38737 47.203276,115.58324 30.133831,134.38007 17.802573,130.37531 12.777346,137.77739 Z"
+           id="path815-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssssss"
+           transform="matrix(1.0390721,0,0,0.68023635,-18.49485,23.182906)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="35.398502"
+           y="114.85731"
+           id="text1205-4"><tspan
+             sodipodi:role="line"
+             id="tspan1203-9"
+             x="35.398502"
+             y="114.85731"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Rail Operations</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1364"
+       transform="translate(49.76359,5.0561937)">
+      <path
+         transform="matrix(1.0390721,0,0,0.68023635,-1.9956915,25.577945)"
+         sodipodi:nodetypes="asaa"
+         inkscape:connector-curvature="0"
+         id="path815"
+         d="m 17.123656,117.86021 c -3.577175,25.70448 39.497546,51.63678 67.33834,39.07937 C 107.6659,146.47361 123.11326,111.2549 108.33129,94.640413 87.478001,71.201949 21.447922,86.78736 17.123656,117.86021 Z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1177)" />
+      <text
+         id="text1205"
+         y="104.50001"
+         x="67.56144"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="104.50001"
+           x="67.56144"
+           id="tspan1203"
+           sodipodi:role="line">Capacity</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="112.46255"
+           x="67.56144"
+           sodipodi:role="line"
+           id="tspan1408">Management</tspan></text>
+    </g>
+    <text
+       id="text903-1-6-5"
+       y="136.97189"
+       x="161.94072"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="136.97189"
+         x="161.94072"
+         id="tspan901-6-1-5"
+         sodipodi:role="line">D</tspan></text>
+    <g
+       id="g1023"
+       transform="translate(33.219266,-61.248985)">
+      <path
+         d="m 11.326172,145.99609 v 0.23438 h 16.732422 v -0.23438 z"
+         inkscape:href="#rect1005"
+         id="path1007"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#6e8ce6;stroke-width:0.61736107;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xlink:href="#rect1005"
+         inkscape:original="M 7.8671875 142.53711 L 7.8671875 149.68945 L 31.517578 149.68945 L 31.517578 142.53711 L 7.8671875 142.53711 z "
+         inkscape:radius="-3.459501"
+         sodipodi:type="inkscape:offset" />
+      <rect
+         y="142.53615"
+         x="7.8665771"
+         height="7.1527758"
+         width="23.651932"
+         id="rect1005"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.35277778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(1.3305773,0.26611546)"
+         id="flowRoot1009"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1011"><use
+             height="100%"
+             width="100%"
+             id="use1013"
+             xlink:href="#rect1005"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           id="flowPara1015">CSD / PL</flowPara></flowRoot>    </g>
+    <g
+       id="g1070"
+       transform="translate(41.495257,-40.868981)">
+      <path
+         d="m 35.759766,141.15625 v 0.33203 h 5.388672 v -0.33203 z"
+         inkscape:href="#rect1005-8"
+         id="path1007-6"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#6e8ce6;stroke-width:0.61736107;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xlink:href="#rect1005-8"
+         inkscape:original="M 32.300781 137.69727 L 32.300781 144.94727 L 44.607422 144.94727 L 44.607422 137.69727 L 32.300781 137.69727 z "
+         inkscape:radius="-3.459501"
+         sodipodi:type="inkscape:offset" />
+      <rect
+         y="137.69777"
+         x="32.3009"
+         height="7.2493815"
+         width="12.305573"
+         id="rect1005-8"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25617221;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(25.8132,-4.5239617)"
+         id="flowRoot1009-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1011-9"><use
+             height="100%"
+             width="100%"
+             id="use1013-3"
+             xlink:href="#rect1005-8"
+             y="0"
+             x="0"
+             transform="translate(-24.482623,4.7900772)" /></flowRegion><flowPara
+           id="flowPara1015-6">ACL</flowPara></flowRoot>    </g>
+    <g
+       id="g1023-5"
+       transform="translate(117.88915,-12.24131)">
+      <path
+         d="m 11.326172,145.99609 v 0.23438 h 16.732422 v -0.23438 z"
+         inkscape:href="#rect1005-4"
+         id="path1007-5"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#6e8ce6;stroke-width:0.61736107;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xlink:href="#rect1005-4"
+         inkscape:original="M 7.8671875 142.53711 L 7.8671875 149.68945 L 31.517578 149.68945 L 31.517578 142.53711 L 7.8671875 142.53711 z "
+         inkscape:radius="-3.459501"
+         sodipodi:type="inkscape:offset" />
+      <rect
+         y="142.53615"
+         x="7.8665771"
+         height="7.1527758"
+         width="23.651932"
+         id="rect1005-4"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.35277778;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(1.3305773,0.26611546)"
+         id="flowRoot1009-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1011-3"><use
+             height="100%"
+             width="100%"
+             id="use1013-1"
+             xlink:href="#rect1005-4"
+             y="0"
+             x="0" /></flowRegion><flowPara
+           id="flowPara1015-2">CSD / PL</flowPara></flowRoot>    </g>
+    <g
+       id="g1070-0"
+       transform="translate(128.45101,0.34395736)">
+      <path
+         d="m 35.759766,141.15625 v 0.33203 h 5.388672 v -0.33203 z"
+         inkscape:href="#rect1005-8-5"
+         id="path1007-6-6"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#6e8ce6;stroke-width:0.61736107;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xlink:href="#rect1005-8-5"
+         inkscape:original="M 32.300781 137.69727 L 32.300781 144.94727 L 44.607422 144.94727 L 44.607422 137.69727 L 32.300781 137.69727 z "
+         inkscape:radius="-3.459501"
+         sodipodi:type="inkscape:offset" />
+      <rect
+         y="137.69777"
+         x="32.3009"
+         height="7.2493815"
+         width="12.305573"
+         id="rect1005-8-5"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25617221;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <flowRoot
+         transform="translate(25.8132,-4.5239617)"
+         id="flowRoot1009-0-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1011-9-9"><use
+             height="100%"
+             width="100%"
+             id="use1013-3-4"
+             xlink:href="#rect1005-8-5"
+             y="0"
+             x="0"
+             transform="translate(-24.482623,4.7900772)" /></flowRegion><flowPara
+           id="flowPara1015-6-4">ACL</flowPara></flowRoot>    </g>
+  </g>
+</svg>
